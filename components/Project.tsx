@@ -14,7 +14,7 @@ export const Project = () => {
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 max-w-7xl mx-auto w-full px-5">
         <WobbleCard containerClassName="col-span-1 lg:col-span-3 bg-blue-900 min-h-[500px] lg:min-h-[600px] xl:min-h-[300px]">
-          <div className="max-w-xl mb-24 md:mb-0">
+          <div className="max-w-xl mb-28 md:mb-0">
             <h2 className="max-w-sm md:max-w-lg text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
               AusculThing Learning Website
             </h2>
@@ -38,7 +38,7 @@ export const Project = () => {
           />
         </WobbleCard>
         <WobbleCard containerClassName="col-span-1 lg:col-span-3 bg-green-900 min-h-[500px] lg:min-h-[600px] xl:min-h-[300px]">
-          <div className="max-w-xl mb-24 md:mb-0">
+          <div className="max-w-xl mb-28 md:mb-0">
             <h2 className="max-w-sm md:max-w-lg  text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
               Sibbo Medical Devices Mobile App
             </h2>
