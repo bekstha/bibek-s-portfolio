@@ -21,9 +21,9 @@ export const Project = () => {
             <p className="mt-4 max-w-[26rem] text-left  text-base/6 text-neutral-200">
               Designed and developed a new learning environment for
               auscultation. Planned the project, designed UI/UX, developed the
-              front-end and back-end, integrated audio examples of hear beats,
+              front-end and back-end, integrated audio examples of heart beats,
               and implemented quizzes for skill assessment. Delivered a fully
-              functional, user-friendly solution in medical education.
+              functional, responsive web application.
             </p>
             <p className="mt-4 max-w-[26rem] text-left  text-base/6 text-neutral-200">
             Stack used: Figma, React, TailwindCSS, Firebase
