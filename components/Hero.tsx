@@ -27,7 +27,7 @@ export const Hero = () => {
             />
 
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl pointer-events-none">
-              Hi! I&apos;m Bibek Shrestha, web & mobile developer based in
+              Hi! I&apos;m Bibek Shrestha, web & mobile developer based in Espoo,
               Finland.
             </p>
 
