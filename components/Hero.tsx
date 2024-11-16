@@ -8,13 +8,12 @@ import { BackgroundGradientAnimation } from "./ui/BackgroundGradientAnimation";
 
 export const Hero = () => {
   const handleDownload = () => {
-    // Programmatically create an anchor element
     const link = document.createElement("a");
-    link.href = "/MyCV.pdf"; // Path to your file in the public folder
-    link.download = "Bibek_Shrestha_CV.pdf"; // Suggested file name
-    document.body.appendChild(link); // Append the link to the body
-    link.click(); // Simulate a click to trigger the download
-    document.body.removeChild(link); // Clean up by removing the link
+    link.href = "/MyCV.pdf"; 
+    link.download = "Bibek_Shrestha_CV.pdf"; 
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
   return (
     <BackgroundGradientAnimation>
